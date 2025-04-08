@@ -1,0 +1,1 @@
+- Hi! This repo is how far AI took me (non-tech program manager) along on solo-building tech products. 
